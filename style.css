@@ -1,0 +1,31 @@
+.titulos {
+    padding: 3px;
+    margin: 12px;
+    color: coral;
+    font-style: oblique;
+    font-family: 'Roboto Slab', serif;;
+}
+
+.textos {
+    margin: 6px;
+    font-family: 'Roboto Slab', serif;;
+}
+
+a {
+    color: coral;
+    font-style: oblique;
+    font-family: 'Roboto Slab', serif;;
+}
+
+div {
+    margin: 4px;
+    padding: 2px;
+}
+
+body {
+    background: linear-gradient(to bottom, rgb(248, 200, 183), rgb(253, 224, 213))
+}
+
+.parrafos {
+    column-count: 3;
+}
